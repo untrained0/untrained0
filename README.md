@@ -1,20 +1,44 @@
 ### Hi there 👋
 
-<!--
-**untrained0/untrained0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m **Soham Kelaskar**, a systems-oriented full-stack developer with a strong interest in building scalable, data-intensive software systems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🧠 Interests
+- Backend & systems engineering  
+- Full-stack web development  
+- Distributed systems & microservices  
+- API design and performance optimization  
+- Large-scale data processing  
+- Cloud-native architectures  
+- Applied AI in production systems  
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=untrained0&theme=dark&background=000000)](https://git.io/streak-stats)
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=untrained0&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+#### 🛠️ Technical Focus
+- **Languages:** Python, C++, TypeScript, SQL  
+- **Frontend:** React, Next.js (MERN stack)  
+- **Backend:** REST APIs, Microservices (NestJS), Async systems  
+- **Databases & Caching:** PostgreSQL, MongoDB, Redis  
+- **Cloud & Infra:** AWS, Kubernetes, RabbitMQ  
+- **AI/ML (Applied):** OCR, Computer Vision, GenAI, RAG pipelines  
+
+---
+
+#### 🌱 Currently Exploring
+- Backend scalability patterns  
+- Caching strategies and query optimization  
+- Cloud deployment and system reliability  
+
+---
+
+#### 📫 Reach Me
+- **Email:** sohamkelaskar03@gmail.com  
+- **LinkedIn:** https://www.linkedin.com/in/soham-kelaskar-b64a59209/  
+- **Portfolio:** https://portfolio-dun-eta-15.vercel.app/  
+
+---
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=untrained0)](https://git.io/streak-stats)
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=untrained0)](https://github.com/anuraghazra/github-readme-stats)
